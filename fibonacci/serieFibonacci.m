@@ -6,6 +6,8 @@ f = zeros(1,n);
 q = zeros(1,n);
 num = (1:1:n);
 
+%PRUEBA DE CAMBIOS
+
 f(1) = 1;
 f(2) = 1;
 
